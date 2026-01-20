@@ -1,0 +1,228 @@
+country,iso3,region,year,life_expectancy,gdp_per_capita
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1980,59.062,949.011610530352
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1981,59.446,1068.92311090177
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1982,59.859,1095.88472887835
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1983,59.989,959.205194217604
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1984,60.622,757.359025240321
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1985,60.901,649.27581323637
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1986,60.982,692.529276865648
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1987,60.724,726.43141011947
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1988,60.241,815.89246404532
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1989,59.446,840.417972601175
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1990,58.319,866.928868406131
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1991,57.037,830.961354818769
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1992,55.602,631.149149280088
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1993,53.976,604.70311652877
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1994,52.537,634.062003018813
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1995,51.144,648.315259628165
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1996,48.981,766.913775859535
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1997,48.536,750.583100340929
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1998,47.551,552.448328691252
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1999,46.379,582.299355588147
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2000,46.034,562.833757496076
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2001,44.525,566.388746448872
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2002,45.938,524.936478570323
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2003,45.373,468.471932927213
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2004,46.043,469.719298949304
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2005,46.57,461.271387547912
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2006,47.056,431.034994414964
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2007,47.576,413.521244592925
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2008,48.456,340.917447588572
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2009,49.75,735.821693871697
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2010,51.925,902.010759067388
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2011,53.911,1037.77565157218
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2012,55.386,1239.22709745709
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2013,56.842,1362.99498323368
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2014,58.106,1372.91526173161
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2015,58.989,1387.12632595026
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2016,59.76,1408.13945253431
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2017,60.263,3445.44941020134
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2018,60.906,2270.89531874302
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2019,61.06,2184.32923855469
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2020,61.53,2059.67445384499
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2021,60.135,2613.60542083552
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2022,62.36,2536.40050223076
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",2023,62.775,2195.22492079245
+Angola,AGO,Sub-Saharan Africa ,1980,59.062,949.011610530352
+Angola,AGO,Sub-Saharan Africa ,1981,59.446,1068.92311090177
+Angola,AGO,Sub-Saharan Africa ,1982,59.859,1095.88472887835
+Angola,AGO,Sub-Saharan Africa ,1983,59.989,959.205194217604
+Angola,AGO,Sub-Saharan Africa ,1984,60.622,757.359025240321
+Angola,AGO,Sub-Saharan Africa ,1985,60.901,649.27581323637
+Angola,AGO,Sub-Saharan Africa ,1986,60.982,692.529276865648
+Angola,AGO,Sub-Saharan Africa ,1987,60.724,726.43141011947
+Angola,AGO,Sub-Saharan Africa ,1988,60.241,815.89246404532
+Angola,AGO,Sub-Saharan Africa ,1989,59.446,840.417972601175
+Angola,AGO,Sub-Saharan Africa ,1990,58.319,866.928868406131
+Angola,AGO,Sub-Saharan Africa ,1991,57.037,830.961354818769
+Angola,AGO,Sub-Saharan Africa ,1992,55.602,631.149149280088
+Angola,AGO,Sub-Saharan Africa ,1993,53.976,604.70311652877
+Angola,AGO,Sub-Saharan Africa ,1994,52.537,634.062003018813
+Angola,AGO,Sub-Saharan Africa ,1995,51.144,648.315259628165
+Angola,AGO,Sub-Saharan Africa ,1996,48.981,766.913775859535
+Angola,AGO,Sub-Saharan Africa ,1997,48.536,750.583100340929
+Angola,AGO,Sub-Saharan Africa ,1998,47.551,552.448328691252
+Angola,AGO,Sub-Saharan Africa ,1999,46.379,582.299355588147
+Angola,AGO,Sub-Saharan Africa ,2000,46.034,562.833757496076
+Angola,AGO,Sub-Saharan Africa ,2001,44.525,566.388746448872
+Angola,AGO,Sub-Saharan Africa ,2002,45.938,524.936478570323
+Angola,AGO,Sub-Saharan Africa ,2003,45.373,468.471932927213
+Angola,AGO,Sub-Saharan Africa ,2004,46.043,469.719298949304
+Angola,AGO,Sub-Saharan Africa ,2005,46.57,461.271387547912
+Angola,AGO,Sub-Saharan Africa ,2006,47.056,431.034994414964
+Angola,AGO,Sub-Saharan Africa ,2007,47.576,413.521244592925
+Angola,AGO,Sub-Saharan Africa ,2008,48.456,340.917447588572
+Angola,AGO,Sub-Saharan Africa ,2009,49.75,735.821693871697
+Angola,AGO,Sub-Saharan Africa ,2010,51.925,902.010759067388
+Angola,AGO,Sub-Saharan Africa ,2011,53.911,1037.77565157218
+Angola,AGO,Sub-Saharan Africa ,2012,55.386,1239.22709745709
+Angola,AGO,Sub-Saharan Africa ,2013,56.842,1362.99498323368
+Angola,AGO,Sub-Saharan Africa ,2014,58.106,1372.91526173161
+Angola,AGO,Sub-Saharan Africa ,2015,58.989,1387.12632595026
+Angola,AGO,Sub-Saharan Africa ,2016,59.76,1408.13945253431
+Angola,AGO,Sub-Saharan Africa ,2017,60.263,3445.44941020134
+Angola,AGO,Sub-Saharan Africa ,2018,60.906,2270.89531874302
+Angola,AGO,Sub-Saharan Africa ,2019,61.06,2184.32923855469
+Angola,AGO,Sub-Saharan Africa ,2020,61.53,2059.67445384499
+Angola,AGO,Sub-Saharan Africa ,2021,60.135,2613.60542083552
+Angola,AGO,Sub-Saharan Africa ,2022,62.36,2536.40050223076
+Angola,AGO,Sub-Saharan Africa ,2023,62.775,2195.22492079245
+Albania,ALB,Europe & Central Asia,1980,59.062,949.011610530352
+Albania,ALB,Europe & Central Asia,1981,59.446,1068.92311090177
+Albania,ALB,Europe & Central Asia,1982,59.859,1095.88472887835
+Albania,ALB,Europe & Central Asia,1983,59.989,959.205194217604
+Albania,ALB,Europe & Central Asia,1984,60.622,757.359025240321
+Albania,ALB,Europe & Central Asia,1985,60.901,649.27581323637
+Albania,ALB,Europe & Central Asia,1986,60.982,692.529276865648
+Albania,ALB,Europe & Central Asia,1987,60.724,726.43141011947
+Albania,ALB,Europe & Central Asia,1988,60.241,815.89246404532
+Albania,ALB,Europe & Central Asia,1989,59.446,840.417972601175
+Albania,ALB,Europe & Central Asia,1990,58.319,866.928868406131
+Albania,ALB,Europe & Central Asia,1991,57.037,830.961354818769
+Albania,ALB,Europe & Central Asia,1992,55.602,631.149149280088
+Albania,ALB,Europe & Central Asia,1993,53.976,604.70311652877
+Albania,ALB,Europe & Central Asia,1994,52.537,634.062003018813
+Albania,ALB,Europe & Central Asia,1995,51.144,648.315259628165
+Albania,ALB,Europe & Central Asia,1996,48.981,766.913775859535
+Albania,ALB,Europe & Central Asia,1997,48.536,750.583100340929
+Albania,ALB,Europe & Central Asia,1998,47.551,552.448328691252
+Albania,ALB,Europe & Central Asia,1999,46.379,582.299355588147
+Albania,ALB,Europe & Central Asia,2000,46.034,562.833757496076
+Albania,ALB,Europe & Central Asia,2001,44.525,566.388746448872
+Albania,ALB,Europe & Central Asia,2002,45.938,524.936478570323
+Albania,ALB,Europe & Central Asia,2003,45.373,468.471932927213
+Albania,ALB,Europe & Central Asia,2004,46.043,469.719298949304
+Albania,ALB,Europe & Central Asia,2005,46.57,461.271387547912
+Albania,ALB,Europe & Central Asia,2006,47.056,431.034994414964
+Albania,ALB,Europe & Central Asia,2007,47.576,413.521244592925
+Albania,ALB,Europe & Central Asia,2008,48.456,340.917447588572
+Albania,ALB,Europe & Central Asia,2009,49.75,735.821693871697
+Albania,ALB,Europe & Central Asia,2010,51.925,902.010759067388
+Albania,ALB,Europe & Central Asia,2011,53.911,1037.77565157218
+Albania,ALB,Europe & Central Asia,2012,55.386,1239.22709745709
+Albania,ALB,Europe & Central Asia,2013,56.842,1362.99498323368
+Albania,ALB,Europe & Central Asia,2014,58.106,1372.91526173161
+Albania,ALB,Europe & Central Asia,2015,58.989,1387.12632595026
+Albania,ALB,Europe & Central Asia,2016,59.76,1408.13945253431
+Albania,ALB,Europe & Central Asia,2017,60.263,3445.44941020134
+Albania,ALB,Europe & Central Asia,2018,60.906,2270.89531874302
+Albania,ALB,Europe & Central Asia,2019,61.06,2184.32923855469
+Albania,ALB,Europe & Central Asia,2020,61.53,2059.67445384499
+Albania,ALB,Europe & Central Asia,2021,60.135,2613.60542083552
+Albania,ALB,Europe & Central Asia,2022,62.36,2536.40050223076
+Albania,ALB,Europe & Central Asia,2023,62.775,2195.22492079245
+Argentina,ARG,Latin America & Caribbean ,1980,59.062,949.011610530352
+Argentina,ARG,Latin America & Caribbean ,1981,59.446,1068.92311090177
+Argentina,ARG,Latin America & Caribbean ,1982,59.859,1095.88472887835
+Argentina,ARG,Latin America & Caribbean ,1983,59.989,959.205194217604
+Argentina,ARG,Latin America & Caribbean ,1984,60.622,757.359025240321
+Argentina,ARG,Latin America & Caribbean ,1985,60.901,649.27581323637
+Argentina,ARG,Latin America & Caribbean ,1986,60.982,692.529276865648
+Argentina,ARG,Latin America & Caribbean ,1987,60.724,726.43141011947
+Argentina,ARG,Latin America & Caribbean ,1988,60.241,815.89246404532
+Argentina,ARG,Latin America & Caribbean ,1989,59.446,840.417972601175
+Argentina,ARG,Latin America & Caribbean ,1990,58.319,866.928868406131
+Argentina,ARG,Latin America & Caribbean ,1991,57.037,830.961354818769
+Argentina,ARG,Latin America & Caribbean ,1992,55.602,631.149149280088
+Argentina,ARG,Latin America & Caribbean ,1993,53.976,604.70311652877
+Argentina,ARG,Latin America & Caribbean ,1994,52.537,634.062003018813
+Argentina,ARG,Latin America & Caribbean ,1995,51.144,648.315259628165
+Argentina,ARG,Latin America & Caribbean ,1996,48.981,766.913775859535
+Argentina,ARG,Latin America & Caribbean ,1997,48.536,750.583100340929
+Argentina,ARG,Latin America & Caribbean ,1998,47.551,552.448328691252
+Argentina,ARG,Latin America & Caribbean ,1999,46.379,582.299355588147
+Argentina,ARG,Latin America & Caribbean ,2000,46.034,562.833757496076
+Argentina,ARG,Latin America & Caribbean ,2001,44.525,566.388746448872
+Argentina,ARG,Latin America & Caribbean ,2002,45.938,524.936478570323
+Argentina,ARG,Latin America & Caribbean ,2003,45.373,468.471932927213
+Argentina,ARG,Latin America & Caribbean ,2004,46.043,469.719298949304
+Argentina,ARG,Latin America & Caribbean ,2005,46.57,461.271387547912
+Argentina,ARG,Latin America & Caribbean ,2006,47.056,431.034994414964
+Argentina,ARG,Latin America & Caribbean ,2007,47.576,413.521244592925
+Argentina,ARG,Latin America & Caribbean ,2008,48.456,340.917447588572
+Argentina,ARG,Latin America & Caribbean ,2009,49.75,735.821693871697
+Argentina,ARG,Latin America & Caribbean ,2010,51.925,902.010759067388
+Argentina,ARG,Latin America & Caribbean ,2011,53.911,1037.77565157218
+Argentina,ARG,Latin America & Caribbean ,2012,55.386,1239.22709745709
+Argentina,ARG,Latin America & Caribbean ,2013,56.842,1362.99498323368
+Argentina,ARG,Latin America & Caribbean ,2014,58.106,1372.91526173161
+Argentina,ARG,Latin America & Caribbean ,2015,58.989,1387.12632595026
+Argentina,ARG,Latin America & Caribbean ,2016,59.76,1408.13945253431
+Argentina,ARG,Latin America & Caribbean ,2017,60.263,3445.44941020134
+Argentina,ARG,Latin America & Caribbean ,2018,60.906,2270.89531874302
+Argentina,ARG,Latin America & Caribbean ,2019,61.06,2184.32923855469
+Argentina,ARG,Latin America & Caribbean ,2020,61.53,2059.67445384499
+Argentina,ARG,Latin America & Caribbean ,2021,60.135,2613.60542083552
+Argentina,ARG,Latin America & Caribbean ,2022,62.36,2536.40050223076
+Argentina,ARG,Latin America & Caribbean ,2023,62.775,2195.22492079245
+Armenia,ARM,Europe & Central Asia,1980,59.062,949.011610530352
+Armenia,ARM,Europe & Central Asia,1981,59.446,1068.92311090177
+Armenia,ARM,Europe & Central Asia,1982,59.859,1095.88472887835
+Armenia,ARM,Europe & Central Asia,1983,59.989,959.205194217604
+Armenia,ARM,Europe & Central Asia,1984,60.622,757.359025240321
+Armenia,ARM,Europe & Central Asia,1985,60.901,649.27581323637
+Armenia,ARM,Europe & Central Asia,1986,60.982,692.529276865648
+Armenia,ARM,Europe & Central Asia,1987,60.724,726.43141011947
+Armenia,ARM,Europe & Central Asia,1988,60.241,815.89246404532
+Armenia,ARM,Europe & Central Asia,1989,59.446,840.417972601175
+Armenia,ARM,Europe & Central Asia,1990,58.319,866.928868406131
+Armenia,ARM,Europe & Central Asia,1991,57.037,830.961354818769
+Armenia,ARM,Europe & Central Asia,1992,55.602,631.149149280088
+Armenia,ARM,Europe & Central Asia,1993,53.976,604.70311652877
+Armenia,ARM,Europe & Central Asia,1994,52.537,634.062003018813
+Armenia,ARM,Europe & Central Asia,1995,51.144,648.315259628165
+Armenia,ARM,Europe & Central Asia,1996,48.981,766.913775859535
+Armenia,ARM,Europe & Central Asia,1997,48.536,750.583100340929
+Armenia,ARM,Europe & Central Asia,1998,47.551,552.448328691252
+Armenia,ARM,Europe & Central Asia,1999,46.379,582.299355588147
+Armenia,ARM,Europe & Central Asia,2000,46.034,562.833757496076
+Armenia,ARM,Europe & Central Asia,2001,44.525,566.388746448872
+Armenia,ARM,Europe & Central Asia,2002,45.938,524.936478570323
+Armenia,ARM,Europe & Central Asia,2003,45.373,468.471932927213
+Armenia,ARM,Europe & Central Asia,2004,46.043,469.719298949304
+Armenia,ARM,Europe & Central Asia,2005,46.57,461.271387547912
+Armenia,ARM,Europe & Central Asia,2006,47.056,431.034994414964
+Armenia,ARM,Europe & Central Asia,2007,47.576,413.521244592925
+Armenia,ARM,Europe & Central Asia,2008,48.456,340.917447588572
+Armenia,ARM,Europe & Central Asia,2009,49.75,735.821693871697
+Armenia,ARM,Europe & Central Asia,2010,51.925,902.010759067388
+Armenia,ARM,Europe & Central Asia,2011,53.911,1037.77565157218
+Armenia,ARM,Europe & Central Asia,2012,55.386,1239.22709745709
+Armenia,ARM,Europe & Central Asia,2013,56.842,1362.99498323368
+Armenia,ARM,Europe & Central Asia,2014,58.106,1372.91526173161
+Armenia,ARM,Europe & Central Asia,2015,58.989,1387.12632595026
+Armenia,ARM,Europe & Central Asia,2016,59.76,1408.13945253431
+Armenia,ARM,Europe & Central Asia,2017,60.263,3445.44941020134
+Armenia,ARM,Europe & Central Asia,2018,60.906,2270.89531874302
+Armenia,ARM,Europe & Central Asia,2019,61.06,2184.32923855469
+Armenia,ARM,Europe & Central Asia,2020,61.53,2059.67445384499
+Armenia,ARM,Europe & Central Asia,2021,60.135,2613.60542083552
+Armenia,ARM,Europe & Central Asia,2022,62.36,2536.40050223076
+Armenia,ARM,Europe & Central Asia,2023,62.775,2195.22492079245
+Azerbaijan,AZE,Europe & Central Asia,1980,59.062,949.011610530352
+Azerbaijan,AZE,Europe & Central Asia,1981,59.446,1068.92311090177
+Azerbaijan,AZE,Europe & Central Asia,1982,59.859,1095.88472887835
+Azerbaijan,AZE,Europe & Central Asia,1983,59.989,959.205194217604
+Azerbaijan,AZE,Europe & Central Asia,1984,60.622,757.359025240321
+Azerbaijan,AZE,Europe & Central Asia,1985,60.901,649.27581323637
+Azerbaijan,AZE,Europe & Central Asia,1986,60.982,692.529276865648

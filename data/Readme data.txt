@@ -1,0 +1,1 @@
+En esta carpeta solo se guarda el .vsc de DATA es decir, los datos del NOTEBOOK
