@@ -4,7 +4,7 @@ Este proyecto combina un proceso **ETL (Extract, Transform, Load)** implementado
 
 ---
 
-📁 Estructura del Proyecto
+ Estructura del Proyecto
 
 ```
 Proyecto/
@@ -23,7 +23,7 @@ Proyecto/
 
 ---
 
-## 🔧 Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - Python 3.13
 - Pandas
@@ -39,14 +39,14 @@ Proyecto/
 
 ##  Instalación
 
-### 1 Clonar el repositorio
+### Clonar el repositorio
 
 ```
 git clone https://github.com/JuanR88/proyecto_ETL.git
 cd proyecto
 ```
 
-### 3️⃣ Instalar dependencias
+### Instalar dependencias
 
 ```
 !pip install pandas
